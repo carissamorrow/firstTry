@@ -63,7 +63,6 @@ namespace firstTry
         }
         playing = false;
       }
-      else 
     }
   }
 }
