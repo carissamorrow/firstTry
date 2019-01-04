@@ -62,7 +62,6 @@ namespace firstTry
           Console.WriteLine("The Computer Wins");
         }
         playing = false;
-
       }
     }
   }
